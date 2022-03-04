@@ -1,1 +1,1 @@
-my readme file
+a file for school.mgc
